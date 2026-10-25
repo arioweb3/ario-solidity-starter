@@ -1,5 +1,9 @@
 # ⚡ ARIO Solidity Starter
 
+[![Solidity Tests](https://github.com/arioweb3/ario-solidity-starter/actions/workflows/test.yml/badge.svg)](https://github.com/arioweb3/ario-solidity-starter/actions/workflows/test.yml)
+
+> Automated Solidity tests run with Hardhat and GitHub Actions.
+
 <div align="center">
 
 ### ⛓️ BUILD. INNOVATE. DECENTRALIZE.
