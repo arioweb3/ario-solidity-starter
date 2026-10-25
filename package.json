@@ -1,0 +1,17 @@
+{
+  "name": "ario-solidity-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An educational Solidity smart contract project by ARIO.",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",
+    "@nomicfoundation/hardhat-ethers": "^3.0.0",
+    "chai": "^4.5.0",
+    "ethers": "^6.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
